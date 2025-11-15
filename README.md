@@ -21,7 +21,7 @@ This repository is the **starter** for your End Semester Project submission in G
 * Describe your repository structure here. Explain about overall code organization.
 * The first file LR_KNN_XG.ipynb(algorithm1.py) file contains the implementations of the Logistic Reg, KNN, XGboost.I named only 3 algorithms
 seperstely because I focused more on these 3 only .The file Some_other.ipynb(alogrithms2).py contains few other algorithms that I implemented.
-There is also a pdf Report on the observations. The main.py file contains the main algorithm/ best algorithm I implemented which is KNN.
+There is also a pdf Report on the observations. The main.py and main.ipynb file contains the main algorithm/ best algorithm I implemented which is KNN.
 
 ## 📦 Installation & Dependencies
 
@@ -39,7 +39,7 @@ All experiments should be runnable from the command line **and** reproducible in
 * Mention the instructions to run you .py files.
 * I've done the algorithms in 2 .ipynb files (algorithms.py), all my
   implementations are in .ipynb files and .py files(these are the files when .ipynb files are converted to .py files). So please go through these
-  .ipynb files to find the algorithms I implemented.
+  .ipynb files to find the algorithms I implemented. And KNN implementation code in main.ipynb and .py file.
 
 ## You can further add your own sections/titles along with corresponding contents here:
 
