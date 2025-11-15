@@ -7,7 +7,7 @@ This repository is the **starter** for your End Semester Project submission in G
 
 > **Scope (as per assignment brief):**
 > Give an introduction to your repository here: Eg. This repository contains a complete implementation for ...
-
+* This repository contains the code files(.py and .ipynb) or the alogorithms and a report pdf.
 ---
 
 **Important Note:** 
@@ -19,14 +19,15 @@ This repository is the **starter** for your End Semester Project submission in G
 ## 📁 Repository Structure
 
 * Describe your repository structure here. Explain about overall code organization.
-
----
+The first file LR_KNN_XG.ipynb(algorithm1.py) file contains the implementations of the Logistic Reg, KNN, XGboost.I named only 3 algorithms
+seperstely because I focused more on these 3 only .The file Some_other.ipynb(alogrithms2).py contains few other algorithms that I implemented.
+There is also a pdf Report on the observations.
 
 ## 📦 Installation & Dependencies
 
 * Mention all the related instructions for installation of related packages for running your code here.
+install basic libraries like numpy, scipy, sklearn, pandas etc.
 
----
 
 ## ▶️ Running the Code
 
@@ -35,8 +36,9 @@ All experiments should be runnable from the command line **and** reproducible in
 ### A. Command-line (recommended for grading)
 
 * Mention the instructions to run you .py files.
-  
----
+   I've done the algorithms in 2 .ipynb files (algorithms.py), all my
+  implementations are in .ipynb files and .py files(these are the files when .ipynb files are converted to .py files). So please go through these
+  .ipynb files to find the algorithms I implemented.
 
 ## You can further add your own sections/titles along with corresponding contents here:
 
@@ -44,7 +46,7 @@ All experiments should be runnable from the command line **and** reproducible in
 
 ## 🧾 Authors
 
-**<Name, Roll No.>**, IIT Madras (2025–26)
+**<K.Rishitha, DA24B040>**, IIT Madras (2025–26)
 
 
 ## Best Practices:
