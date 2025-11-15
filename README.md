@@ -27,6 +27,7 @@ There is also a pdf Report on the observations. The main.py file contains the ma
 
 * Mention all the related instructions for installation of related packages for running your code here.
 * install basic libraries like numpy, scipy, sklearn, pandas etc.
+* Also download and put the .csv files in place of train and val files in main.py
 
 
 ## ▶️ Running the Code
